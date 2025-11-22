@@ -1,0 +1,1 @@
+# A WordPress plugin for installment-based purchases, enabling users to view available payment plans and add installment orders to their cart. The admin order dashboard also displays installment purchases with a dedicated highlight color for clearer order management
